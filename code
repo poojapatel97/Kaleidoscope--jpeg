@@ -1,4 +1,4 @@
-Sure! Here's an example of a Kaleidoscope code using JavaScript with the help of the HTML5 canvas element. This code will generate a kaleidoscopic pattern and save it as a JPEG image.
+
 
 ```html
 <!DOCTYPE html>
